@@ -39,14 +39,14 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:![image](https://github.com/user-attachments/assets/f3e06f72-3136-412e-8f6e-06b2ad065ed8)
-![image](https://github.com/user-attachments/assets/63984426-6ad6-4972-a7ea-68427a2863f5)
-![image](https://github.com/user-attachments/assets/6701923d-d4be-42f0-b424-6cfac4fa7b89)
-![image](https://github.com/user-attachments/assets/e7903509-372a-4fd0-954b-16e516742d5b)
-![image](https://github.com/user-attachments/assets/96d2a54b-587b-4e01-9ac6-38b325339eca)
-![image](https://github.com/user-attachments/assets/8611d36d-da5e-4151-a643-1842802d13af)
+![image](https://github.com/user-attachments/assets/944ed610-cd60-4780-9f24-8de4675d1a48)
+![image](https://github.com/user-attachments/assets/d50f0943-c651-43a0-8da7-fa8368841a7f)
+![image](https://github.com/user-attachments/assets/f1d7da5f-3c7e-4de7-891b-5ea4dff67f2a)
 
 
 ## Output:
+![image](https://github.com/user-attachments/assets/9fde3733-7bb5-4177-8d74-23841ab701b4)
+![image](https://github.com/user-attachments/assets/b008a5b3-4cd5-478d-a533-0dbc3ece7eb6)
 
 ### Name:Periya Raja PM
 ### Register Number:24001966
